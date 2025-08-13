@@ -4,13 +4,13 @@ import Projects from "../Component/Project/Projects";
 import Profile from "./Profile1/Profile";
 import About2 from "../About/About2";
 import PhotoGallery from "./PhotoGallery";
-import ProtfoliodashBoard from "../Component/ProtfoliodashBoard";
+// import ProtfoliodashBoard from "../Component/ProtfoliodashBoard";
 // import Banner from "./Banner";
  
 const Home = () => {
     return (
         <div>
-            <ProtfoliodashBoard></ProtfoliodashBoard>
+            {/* <ProtfoliodashBoard></ProtfoliodashBoard> */}
             <Profile></Profile>
             {/* <Banner></Banner> */}
             <About></About>
